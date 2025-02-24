@@ -5,7 +5,7 @@ date:   2025-02-22 14:50:50 +0000
 categories: flash talks
 ---
 
-<object data="/PDF/The_Universe_On_A_Stick.pdf" width="1000" height="1000"></object>
+<object data="[/PDF/The_Universe_On_A_Stick.pdf](https://github.com/xietianyiwa/flash_talks/blob/gh-pages/PDF/The_Universe_On_A_Stick.pdf)" width="1000" height="1000"></object>
 
 <!-- 
 <h3>The Story</h3>
