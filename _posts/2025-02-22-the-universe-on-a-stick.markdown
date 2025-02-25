@@ -4,12 +4,6 @@ title:  "The Universe on a Stick"
 date:   2025-02-22 14:50:50 +0000
 categories: flash talks
 ---
-
-<object data="https://github.com/xietianyiwa/flash_talks/blob/gh-pages/PDF/The_Universe_On_A_Stick.pdf" width="1000" height="1000"></object>
-
-<a href="https://github.com/xietianyiwa/flash_talks/blob/gh-pages/PDF/The_Universe_On_A_Stick.pdf" target="_blank">PDF.</a>
-
-<!-- 
 <h3>The Story</h3>
 When I was a child, my dad told me a story that he once heard. Once upon a time, an alien visited earth and was greeted by friendly humans, who invited him stay with us and learn our culture. He stayed with us for a long time, and learned all there was to know about planet Earth. When it was time to leave, he said he wanted to record his experience so that he could tell all the other aliens. 
 
@@ -61,4 +55,6 @@ Notice how we are using a number in (0, 1) to represent the state of the univers
 
 In this way, we can use a stick to record the state of the universe, from now to infinity beyond.
 
-And my favorite fact about this whole thing: after you finish making infinitely many cuts, there’s still a lot of space left over on the stick. If you want to do this all over again for another universe, you have enough space on that stick to do so. -->
+And my favorite fact about this whole thing: after you finish making infinitely many cuts, there’s still a lot of space left over on the stick. If you want to do this all over again for another universe, you have enough space on that stick to do so.
+
+<a href="https://github.com/xietianyiwa/flash_talks/blob/gh-pages/PDF/The_Universe_On_A_Stick.pdf" target="_blank">PDF</a>
