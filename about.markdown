@@ -13,4 +13,4 @@ This website is built using Jekyll. I have wanted to make a website for some tim
 
 Oh what a pain it was. I am not very good with technology to begin with and building this website gave me such a headache. Took me an entire day to get to this very primitive state. I'll be adding more updates once I learn more, but hopefully it is functional for now. 
 
-Huge thanks for giraffe academy for their <a href="https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB" target="_blank"> excellent Youtube tutorial </a>, it saved me from hours of Stack Exchange nighmare.
+Huge thanks for Giraffe Academy for their <a href="https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB" target="_blank"> excellent Youtube tutorial</a>, it saved me from hours of Stack Exchange nighmare.
