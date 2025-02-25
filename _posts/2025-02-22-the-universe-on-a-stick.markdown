@@ -7,7 +7,7 @@ categories: flash talks
 
 <object data="https://github.com/xietianyiwa/flash_talks/blob/gh-pages/PDF/The_Universe_On_A_Stick.pdf" width="1000" height="1000"></object>
 
-<a href="[username.github.io/folder/document.pdf](https://github.com/xietianyiwa/flash_talks/blob/gh-pages/PDF/The_Universe_On_A_Stick.pdf)" target="_blank">PDF.</a>
+<a href="https://github.com/xietianyiwa/flash_talks/blob/gh-pages/PDF/The_Universe_On_A_Stick.pdf" target="_blank">PDF.</a>
 
 <!-- 
 <h3>The Story</h3>
