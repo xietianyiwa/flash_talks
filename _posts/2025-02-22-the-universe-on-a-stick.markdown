@@ -31,7 +31,7 @@ The last step is to get all the numbers from everybody on Earth, and to combine 
 
 We can do this just by interleaving. With two people, this is how it looks like:
 
-![Latex](https://github.com/xietianyiwa/flash_talks/blob/gh-pages/images/pic1.png)
+![Latex](/images/pic1.png)
 
 We have a finite number of people on Earth, and each of them have a number that encodes all the information. We can interleave the numbers together to get one number So using a cut on a stick, we can represent the positions of all the people on Earth.
 
