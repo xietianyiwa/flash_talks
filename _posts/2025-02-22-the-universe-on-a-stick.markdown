@@ -29,9 +29,7 @@ After this, we can use more numbers to represent more information, like their he
 
 The last step is to get all the numbers from everybody on Earth, and to combine them into one big number.
 
-We can do this just by interleaving. With two people, this is how it looks like:
-
-![Latex](../images/pic1.png)
+We can do this just by interleaving. With two people, it changes 0.123456789... and 0.100000000... to 0.112030405060708090...
 
 We have a finite number of people on Earth, and each of them have a number that encodes all the information. We can interleave the numbers together to get one number So using a cut on a stick, we can represent the positions of all the people on Earth.
 
