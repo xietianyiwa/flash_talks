@@ -18,14 +18,14 @@ This is an exaggerated account, of course. I mean, the knife cut is not a perfec
 Let's start with a simple case. Look at every human being on the planet, and suppose each of them reports a number from  0 to  9, which represents how happy they are at this moment in time. 
 
 Next, let’s number all the people on the planets, for instance, you can be number 1, I can be number 2, your favorite musician is number 3 etc.
+
 Then, let’s build a number between 0 and 1. Suppose you are at a happiness level 6, I’m at 5, and let’s say your favorite musician is extremely happy, at a 9. So the number we write down is 0.659..., where after 0, the Nth digit stands for the happiness for the Nth person.
+
 After this, we can regard the piece of stick as the number segment [0,1], where 0 is the left end of the stick and 1 is the right end. Now if you carve the number 0.659... on the stick, this cut represent the happiness level of all human beings on Earth.
 
 Why stop there? Suppose that instead of a integer between in 0, 1, . . . , 9, everyone on Earth is allowed a number between 0 and 1 to store all the information about this person.
 
-So for instance, we can use a pair of positive natural numbers (x, y) to represent the position of every human 1. If we can do this, then writing x followed by y, after 0. will give us a representation of the position of the person.
-
-After this, we can use more numbers to represent more information, like their height in centimeters, their happiness level, their age, their gender...
+So for instance, after zero, we use the first 100 digits to store the coordinate the person is currently at; After this, we can use more numbers store their height in centimeters, their happiness level, their age, their gender...
 
 The last step is to get all the numbers from everybody on Earth, and to combine them into one big number.
 
@@ -45,7 +45,7 @@ Instead of making one cut, we can make infinitely many cuts to record the inform
 
 At the first second, treat the entire stick as the interval [0, 1]. Make a cut.
 
-At the second second, treat the portion of the stick to the right of the cut to be [0,1]. Make the second cut.
+At the second second, treat the portion of the stick to the right of the cut to be [0, 1]. Make the second cut.
 
 At the third second, treat the portion of the stick to the right of the second cut to be [0, 1]. Make the third cut.
 
