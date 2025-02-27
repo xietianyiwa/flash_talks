@@ -23,9 +23,9 @@ Then, let’s build a number between 0 and 1. Suppose you are at a happiness lev
 After this, we can regard the piece of stick as the number segment [0,1], where 0 is the left end of the stick and 1 is the right end. Now if you carve the number 0.659... on the stick, this cut represent the happiness level of all human beings on Earth.
 
 <h3>More Information</h3>
-Suppose that instead of a small integer with length 1, everyone on Earth is allowed a longer integer. For instance, if everyone is allowed an integer of 6 digits in length, then we can record everyone's age and height. If you are 17 years old, and have a height of 170cm, then your integer is 017170. We then join everyone's integers together into one big number, like we did with the happiness record. We number everyone on Earth and after zero, we write down their integers one by one. 
+Suppose that instead of a small integer with length 1, everyone on Earth is allowed a longer integer. For instance, if everyone is allowed an integer of 6 digits in length, we can record everyone's age and height. If you are 17 years old, and have a height of 170cm, your integer is 017170. We then join everyone's integers together into one big number, like we did with the happiness record. We number everyone on Earth and after zero, we write down their integers one by one. 
 
-Indeed, instead of 6 digits, we can even allow everybody one hundred digits, one millions digits, and record everything from their GPS coordinate to their bank details to their wifi password. 
+Indeed, instead of 6 digits, we can even allow everybody one hundred digits, one millions digits, and record everything from their GPS coordinate at this moment to their bank details to their wifi password. 
 
 If fact, we can even store indefinitely large amount of information for each person. Instead of giving everyone a large integer, we can give them a number between 0 an 1, whose digit expansion is infinite in length. Then to combine everyone's number into one number, we can interleave them like cogs. With two people, it changes 0.123456789... and 0.000000000... to 0.102030405060708090...
 
