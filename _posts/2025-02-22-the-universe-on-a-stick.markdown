@@ -14,7 +14,6 @@ No need! The alien said. Looking around, he picked up a tree branch on the groun
 This is an exaggerated account, of course. I mean, the knife cut is not a perfect line with zero width, and it is impossible to know with accuracy where to cut. But I am here to tell you that theoretically this is possible, because numbers have incredible power to store information.
 
 <h3>The Happiness Record</h3>
-
 Let's start with a simple case. Look at every human being on the planet, and suppose each of them reports a number from  0 to  9, which represents how happy they are at this moment in time. 
 
 Next, let’s number all the people on the planets, for instance, you can be number 1, I can be number 2, your favorite musician is number 3 etc.
@@ -23,7 +22,8 @@ Then, let’s build a number between 0 and 1. Suppose you are at a happiness lev
 
 After this, we can regard the piece of stick as the number segment [0,1], where 0 is the left end of the stick and 1 is the right end. Now if you carve the number 0.659... on the stick, this cut represent the happiness level of all human beings on Earth.
 
-Why stop there? Suppose that instead of a small integer with length 1, everyone on Earth is allowed a longer integer. For instance, if everyone is allowed an integer of 6 digits in length, then we can record everyone's age and height. If you are 17 years old, and have a height of 170cm, then your integer is 017170. We then join everyone's integers together into one big number, like we did with the happiness record. We number everyone on Earth and after zero, we write down their integers one by one. 
+<h3>More Information</h3>
+Suppose that instead of a small integer with length 1, everyone on Earth is allowed a longer integer. For instance, if everyone is allowed an integer of 6 digits in length, then we can record everyone's age and height. If you are 17 years old, and have a height of 170cm, then your integer is 017170. We then join everyone's integers together into one big number, like we did with the happiness record. We number everyone on Earth and after zero, we write down their integers one by one. 
 
 Instead of 6 digits, we can even allow everybody one hundred digits, one millions digits, and record everything from their GPS coordinate to their bank details to their wifi password. 
 
@@ -34,7 +34,6 @@ The number of people on Earth is finite, and each of them have a number between 
 A warning: In order to decode the message, you need to first know the number of people on the planet, and the method of encryption. Otherwise the number is useless to you.
 
 <h3>The Universe, Till the End of Time...</h3>
-
 Why stop there? Let’s look at the entire observable universe and all the planets, all the suns, all the black holes, all the floating particles. There’s a finite number of those. Using the exact method as before, we can represent the position of all of them at this moment in time as a single cut on a stick.
 
 But isn’t this rather a waste? There are infinitely many numbers on the stick, and we are only going to use one?
