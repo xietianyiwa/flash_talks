@@ -25,13 +25,13 @@ After this, we can regard the piece of stick as the number segment [0,1], where 
 
 Why stop there? Suppose that instead of a integer between in 0, 1, . . . , 9, everyone on Earth is allowed a number between 0 and 1 to store all the information about this person.
 
-So for instance, after zero, we use the first 100 digits to store the coordinate the person is currently at; After this, we can use more numbers store their height in centimeters, their happiness level, their age, their gender...
+So for instance, suppose you are 17 years old, and has a height of 170cm, then we can start by writing down 0.017170 to represent this. After this, we use the next 100 digits to store the coordinate the person is currently at, accurate to centimeter; if you want you can also store their bank details and password etc.
 
 The last step is to get all the numbers from everybody on Earth, and to combine them into one big number.
 
 We can do this just by interleaving. With two people, it changes 0.123456789... and 0.100000000... to 0.112030405060708090...
 
-We have a finite number of people on Earth, and each of them have a number that encodes all the information. We can interleave the numbers together to get one number So using a cut on a stick, we can represent the positions of all the people on Earth.
+We have a finite number of people on Earth, and each of them have a number that encodes all the information. We can interleave the numbers together to get one number. So using a cut on a stick, we can represent the information of everyone on Earth.
 
 A warning: In order to decode the message, you need to first know the number of people on the planet, and the method of encryption. Otherwise the number is useless to you.
 
@@ -50,6 +50,8 @@ At the second second, treat the portion of the stick to the right of the cut to 
 At the third second, treat the portion of the stick to the right of the second cut to be [0, 1]. Make the third cut.
 
 Notice how we are using a number in (0, 1) to represent the state of the universe, so we never repeat cuts, and we never reach the end. But if we never reach the end of the stick, it means there’s still room to the right of the last cut, to make another cut.
+
+(There is a slight possibility that you'll get 0.999999... as your number. To avoid this, you can for example, insist that all of your encodings start with 0.0. That is, make sure all of the numbers are of the form 0.01234... so that all of the numbers are less than or equal to 0.1)
 
 In this way, we can use a stick to record the state of the universe, from now to infinity beyond.
 
