@@ -11,4 +11,4 @@ What are fractals? The definition is debated among mathematicians, but one of th
 
 There are a lot of examples of self-similar structures in nature. A snowflake under a microscope has the basic hexagonal shape, but on each of the six branches, when you zoom in, you see smaller crystals.
 
-![image](https://github.com/xietianyiwa/flash_talks/blob/gh-pages/_posts/fractals/snowflakes.jpeg)
+![image](../../images/snowflakes.jpeg)
