@@ -15,8 +15,7 @@ There are a lot of examples of self-similar structures in nature. A snowflake un
 
 Snowflakes are just water crystals, other crystals in chemistry also display this feature and are strik- ingly beautiful. Othe examples include veins of leaves, our own blood circulatory system, and this weird broccoli thing:
 
-<img src="/flash_talks/images/Romanesco_broccoli_(Brassica_oleracea).jpg" alt="drawing" width="200"/>
-![image](/flash_talks/images/Romanesco_broccoli_(Brassica_oleracea).jpg)
+<img src="/flash_talks/images/Romanesco_broccoli_(Brassica_oleracea).jpg" alt="drawing" width="400"/>
 
 Fractals are things that when you zoom in to a smaller part of itself, you get something that resembles the original. This definition will make a lot more sense once we see mathematical examples.
 
