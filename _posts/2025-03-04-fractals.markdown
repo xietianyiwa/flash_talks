@@ -5,7 +5,7 @@ date:   2025-03-04 15:50:50 +0000
 categories: flash talks
 ---
 <h3>Introduction</h3>
-Fractals are one of the most fascinating thing to me when I was in primary school, and today I hope to share some of that fascination with you.
+Fractals were one of the most fascinating thing to me when I was in primary school, and today I hope to share some of that fascination with you.
 
 What are fractals? The definition is debated among mathematicians, but one of the defining features is being self-similar: a small part of image is similar to the whole thing.
 
@@ -13,7 +13,7 @@ There are a lot of examples of self-similar structures in nature. A snowflake un
 
 ![image](/flash_talks/images/snowflakes.jpeg)
 
-Snowflakes are just water crystals, other crystals in chemistry also display this feature and are strik- ingly beautiful. Othe examples include veins of leaves, our own blood circulatory system, and this weird broccoli thing:
+Snowflakes are just water crystals, other crystals in chemistry also display this feature and are strikingly beautiful. Othe examples include veins of leaves, our own blood circulatory system, and this weird broccoli thing:
 
 <img src="/flash_talks/images/Romanesco_broccoli_(Brassica_oleracea).jpg" alt="drawing" width="400"/>
 
@@ -58,3 +58,5 @@ I cannot talk about fractals without mentioning one of the most studied fractals
 ![image](/flash_talks/images/Mendelbrot.jpg)
 
 The self-similar property is very evident here, but more interestingly, the boundary of the Mandelbrot set is so squiggly, that it has fractal dimension 2!
+
+<a href="https://github.com/xietianyiwa/flash_talks/blob/gh-pages/PDF/Fractals.pdf" target="_blank">PDF</a>
