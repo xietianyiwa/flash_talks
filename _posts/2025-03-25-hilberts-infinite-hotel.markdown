@@ -43,10 +43,12 @@ Suppose a new train arrived, where for every real number in the interval (0,1), 
 Now the hotel manager was in serious trouble. Even if he were to kick out all of the existing guests, he still had no hope of housing all of the passengers from the train. Why?
 Well, suppose he could, and in each room N slept a passenger RN , where the real number RN was this person’s seat number. The manager has a list of passengers and the rooms they were in, like so:
 
-
 1 → passenger 0.1234567 . . . 
+
 2 → passenger 0.5000000 . . . 
+
 3 → passenger 0.3333333 . . .
+
 ...
 
 Suddenly an angry passenger demands to speak with the manager. “I’ve not been given a room!” He shouted.
