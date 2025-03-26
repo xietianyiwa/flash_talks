@@ -41,7 +41,8 @@ At this point you might ask “What’s the limit of the hotel? Can the hotel ju
 
 Suppose a new train arrived, where for every real number in the interval (0,1), the train bears a passenger in a seat with that number as its label. All of them needs shelter, can you house them?
 Now the hotel manager was in serious trouble. Even if he were to kick out all of the existing guests, he still had no hope of housing all of the passengers from the train. Why?
-Well, suppose he could, and in each room N slept a passenger RN , where the real number RN was this person’s seat number. The manager has a list of passengers and the rooms they were in, like so:
+
+Well, suppose he could, and in each room N slept a passenger R , where the real number R was this person’s seat number. The manager has a list of passengers and the rooms they were in, like so:
 
 1 → passenger 0.1234567 . . . 
 
