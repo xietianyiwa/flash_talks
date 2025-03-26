@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hilber's Infinite Hotel"
+title:  "Hilbert's Infinite Hotel"
 date:   2025-03-25 15:50:50 +0000
 categories: flash talks
 ---
