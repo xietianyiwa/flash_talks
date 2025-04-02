@@ -10,6 +10,7 @@ You might think that maths is all about numbers and equations, but a lot of the 
 What exactly is a proof? Some examples look like this:
 
 • If p ⇒ q and p are true statements, then q is a true statement. 
+
 • If p is true, and q is true,then p and q is true.
 
 Granted, these examples are a bit idiotic, but all the proofs in the maths world are proved in this way: from known result A, deduce new result B.
@@ -56,8 +57,11 @@ But then in this new system, a new statement will appear that you cannot prove. 
 We will discuss the proof next and for that we use proof by contradiction. If you are unfamiliar with this technique, the idea is this:
 
 • Suppose we wish to prove a sentence S is true.
+
 • First assume that S is not true, and try to reach a contradiction.
+
 • Suppose that we managed to prove, under the assumption that S is not true, that the sky is green. Then something must have gone wrong, because the sky is not green!
+
 • This tells us that something in our assumption is impossible. So S must be true.
 
 <h3>The Puzzle</h3>
