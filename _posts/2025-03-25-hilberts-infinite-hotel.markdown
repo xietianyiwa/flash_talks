@@ -18,6 +18,7 @@ Just when you were settling in, a train arrived, bearing 1 million passengers wh
 Simple! Everyone in room N moved to room N + 1, 000, 000. The rooms 1 to 1, 000, 000 were now empty to accommodate the new arrivals.
 
 This phenomenon is similar to what happens when you put a drop of water in the ocean: you can’t notice anything because the ocean is enormous. Infinity is so large, that adding any finite number to it doesn’t affect it in the slightest. You can describe this phenomenon loosely[^1] as 1 + ∞ = ∞; 1,000,000 + ∞ = ∞.
+
 Now, an infinite train arrived at the station. This train had all the residents from another identical In- finite Hotel which unfortunately collapsed. For every natural number, there is a corresponding passenger. What will happen now?
 
 [^1]: Very loosely. We haven’t defined exactly what is ∞, and there are different types of infinity, as we’ll soon see.
