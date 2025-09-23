@@ -2,7 +2,7 @@
 layout: post
 title:  "Hilbert's Infinite Hotel"
 date:   2025-03-25 15:50:50 +0000
-categories: flash talks
+categories: flash_talks
 ---
 
 <h3>Welcome to the Hotel...</h3>

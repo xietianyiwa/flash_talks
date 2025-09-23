@@ -2,7 +2,7 @@
 layout: post
 title:  "Gödel's Incompleteness Theorem"
 date:   2025-04-02 14:50:50 +0000
-categories: flash talks
+categories: flash_talks
 ---
 <h3>Axioms</h3>
 You might think that maths is all about numbers and equations, but a lot of the work of a pure mathe- matician is formalizing problems and proving them.

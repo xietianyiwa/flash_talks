@@ -2,7 +2,7 @@
 layout: post
 title:  "The Universe on a Stick"
 date:   2025-02-22 14:50:50 +0000
-categories: flash talks
+categories: flash_talks
 ---
 <h3>The Story</h3>
 When I was a child, my dad told me a story that he once heard. Once upon a time, an alien visited earth and was greeted by friendly humans, who invited him to stay with us and learn our culture. He stayed with us for a long time, and learned all there was to know about planet Earth. When it was time to leave, he said he wanted to record his experience so that he could tell all the other aliens. 

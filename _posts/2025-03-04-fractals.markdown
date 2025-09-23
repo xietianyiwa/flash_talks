@@ -2,7 +2,7 @@
 layout: post
 title:  "Fractals"
 date:   2025-03-04 15:50:50 +0000
-categories: flash talks
+categories: flash_talks
 ---
 <h3>Introduction</h3>
 Fractals were one of the most fascinating thing to me when I was in primary school, and today I hope to share some of that fascination with you.

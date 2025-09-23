@@ -2,7 +2,7 @@
 layout: post
 title:  "Prisoner's Dilemma"
 date:   2025-03-19 15:50:50 +0000
-categories: flash talks
+categories: flash_talks
 ---
 <h3>Introduction</h3>
 Let’s imagine for a second that you and a stranger are being interrogated by the police. A heinous crime has been committed, and the police has irrefutable proof that at least one of you was the perpetrator.
