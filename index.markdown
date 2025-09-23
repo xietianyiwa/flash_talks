@@ -3,7 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Hello!
 ---
 
 My name is Tianyiwa Xie (or Yiwa for short), and I am a 1st year PhD student of mathematics at <a href="https://www.uni-muenster.de/en/" target="_blank">Universität Münster</a> under the supervision of <a href="https://ivv5hpp.uni-muenster.de/u/fjahn_01/" target="_blank">Prof. Dr. Franziska Jahnke</a> and <a href="https://www.sylvyanscombe.com/research.html" target="_blank">Sylvy Anscombe</a>. 
@@ -11,3 +10,5 @@ My name is Tianyiwa Xie (or Yiwa for short), and I am a 1st year PhD student of 
 My research area is the model theory of valued fields. I am currently thinking about the AKE principle for <a href="https://arxiv.org/abs/2305.12145" target="_blank">AKE principle for mixed characteristic, finitely ramified Henselian fields</a>.
 
 I find giving talks to be a very effective way of studying and you can find a lot of my notes here!
+
+Huge thanks for Giraffe Academy for their <a href="https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB" target="_blank"> excellent Youtube tutorial</a> in building this site.
