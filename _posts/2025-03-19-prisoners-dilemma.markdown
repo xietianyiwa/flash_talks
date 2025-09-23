@@ -92,4 +92,4 @@ The idea behind the talk and the dilemma facing robots comes from Mihaly Barasz 
 
 In 2019, I was 17 and was lucky to attend a summer camp called European Summer Program of Rationality (ESPR). The camp was fantastic and Mihaly was an instructor there. He gave a class on the prisoners dilemma, and it left an impression on me. So all credit of this talk goes to him.
 
-<a href="https://github.com/xietianyiwa/flash_talks/blob/gh-pages/PDF/Prisoners_Dilemma.pdf" target="_blank">PDF</a>
+<a href="https://github.com/xietianyiwa/flash_talks/blob/gh-pages/flash_talks_PDF/Prisoners_Dilemma.pdf" target="_blank">PDF</a>

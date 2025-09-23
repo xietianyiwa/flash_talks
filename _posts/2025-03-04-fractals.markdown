@@ -59,4 +59,4 @@ I cannot talk about fractals without mentioning one of the most studied fractals
 
 The self-similar property is very evident here, but more interestingly, the boundary of the Mandelbrot set is so squiggly, that it has fractal dimension 2!
 
-<a href="https://github.com/xietianyiwa/flash_talks/blob/gh-pages/PDF/Fractals.pdf" target="_blank">PDF</a>
+<a href="https://github.com/xietianyiwa/flash_talks/blob/gh-pages/flash_talks_PDF/Fractals.pdf" target="_blank">PDF</a>
