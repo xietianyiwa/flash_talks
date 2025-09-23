@@ -54,11 +54,11 @@ We said that we can only rationally cooperate if we know the opponent will coope
 
 We can model this behaviour with CooperateBot. CooperateBot always cooperate, no matter what happens.
 
-![image](/flash_talks/images/CooperateBot.png)
+![image](/images/CooperateBot.png)
 
 We can then design a robot which cooperates with CooperateBot only. We can call this CoopWith- CoopBot (I know this is a stupid name, if you have a better suggestion I’m listening):
 
-![image](/flash_talks/images/CoopWithCoopBot.png)
+![image](/images/CoopWithCoopBot.png)
 
 We are assuming here that all of the computer programs are completely transparent, so one robot can see the inner working of any another robot, and the code of one robot can be the input of another robot, which is what we have done here.
 
@@ -66,7 +66,7 @@ What happens if you pitch CooperateBot against CooperateBot? With CoopWithCoopBo
 
 The answer to the last question is they both defect. So we might improve upon CoopWithCoopBot, by introducing a MirrorBot:
 
-![image](/xietianyiwa.github.io/images/MirrorBot.png)
+![image](/images/MirrorBot.png)
 
 What does this robot do? It looks at the opponent, and if the opponent is exactly the same as itself, i.e. a MirrorBot, then it cooperates. Otherwise it defects.
 
@@ -74,7 +74,7 @@ If we pitch MirrorBot against MirrorBot, both cooperate. But this system is frag
 
 We go back to the parents example. Your opponent doesn’t have to be CooperateBot for you to cooperate with them, you only need to know that they will Cooperate with you. So how about the following SmartBot:
 
-![image](./images/SmartBot.png)
+![image](/images/SmartBot.png)
 
 SmartBot works like this: it works out how the opponent will react when pitched against SmartBot. That is: SmartBot takes the opponent code, and inputs itself into the code of the opponent. Then SmartBot observes the results. If the Opponent cooperates with SmartBot, then SmartBot cooperates back. Otherwise, SmartBot defects.
 
