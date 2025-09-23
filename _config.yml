@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Yiwa
+title: Maths Flash Talks
 email: xietianyiwa@gmail.com
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "flash_talks" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:
