@@ -11,11 +11,11 @@ What are fractals? The definition is debated among mathematicians, but one of th
 
 There are a lot of examples of self-similar structures in nature. A snowflake under a microscope has the basic hexagonal shape, but on each of the six branches, when you zoom in, you see smaller crystals.
 
-![image](/flash_talks/images/snowflakes.jpeg)
+![image](/images/snowflakes.jpeg)
 
 Snowflakes are just water crystals, other crystals in chemistry also display this feature and are strikingly beautiful. Othe examples include veins of leaves, our own blood circulatory system, and this weird broccoli thing:
 
-<img src="/flash_talks/images/Romanesco_broccoli_(Brassica_oleracea).jpg" alt="drawing" width="400"/>
+<img src="/images/Romanesco_broccoli_(Brassica_oleracea).jpg" alt="drawing" width="400"/>
 
 Fractals are things that when you zoom in to a smaller part of itself, you get something that resembles the original. This definition will make a lot more sense once we see mathematical examples.
 
@@ -30,7 +30,7 @@ Once we do this, we are left with 9 triangles which are even smaller. For each o
 
 Now suppose that we let this process go on infinitely many times. The resulting image is the Sierpiński Triangle. We can get a sense of what the picture looks like by repeating the process 4 or 5 times.
 
-![image](/flash_talks/images/sierpinski_dreieck_konstruktion.jpeg)
+![image](/images/sierpinski_dreieck_konstruktion.jpeg)
 
 Take the final Sierpiński Triangle. If we look at one of the three smaller triangular shapes that make up the original picture, then this is just a copy of the original, but shrunk to 1/4 of its original size. And no matter how much you zoom in, no matter which small triangular shape you take, they are always a smaller copy of the original.
 
@@ -44,7 +44,7 @@ The area of the images we draw down goes from 1 to 3/4 to 3/4 × 3/4 to 3/4 × 3
 So the total area of the Sierpiński triangle is zero! But if you look at the total length of edges we have drawn to construct it, the “perimeter” if you will, is in fact infinite.
 We mentioned snowflakes earlier, a similar construction is the Koch Snowflake.
 
-![image](/flash_talks/images/KochFlake.png)
+![image](/images/KochFlake.png)
 
 Try it yourself to draw it! Using programming tools to simulate the Sierpiński triangle and the Koch snowflake on your own is also very fun.
 
@@ -55,7 +55,7 @@ The Sierpiński Triangle lives in the space between two dimensions, and mathemat
 
 I cannot talk about fractals without mentioning one of the most studied fractals of mathematics, which is the Mandelbrot set.
 
-![image](/flash_talks/images/Mendelbrot.jpg)
+![image](/images/Mendelbrot.jpg)
 
 The self-similar property is very evident here, but more interestingly, the boundary of the Mandelbrot set is so squiggly, that it has fractal dimension 2!
 

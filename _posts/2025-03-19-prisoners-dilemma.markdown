@@ -13,7 +13,7 @@ Here’s the deal (regardless of whether or not you actually did it):
 2. If one of you cooperates and admits the crime, and the other defects and claims innocence, then the corporator gets 10 years in jail, while the other walks free.
 3. If both of you defects, and refuse to admit the crime, both of you gets 6 years in jail.
 
-![image](/flash_talks/images/PayoffTable.png)
+![image](/images/PayoffTable.png)
 
 What will you do in this situation? Would you change your answer if the stranger is changed to your best friend? Your enemy? A close family member?
 How would your answer change if the penalties change to larger numbers? For example, what if instead of a -6 years penalty for both defecting, you get life sentences instead?

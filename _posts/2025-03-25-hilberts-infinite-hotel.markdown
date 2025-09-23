@@ -35,7 +35,7 @@ Some examples of countable numbers include the global population, the number of 
 
 Suppose that you are an omniscient creature who for every second from now until the end of time, records the state the universe, then in the end you would have many infinitely many records, but that number is still infinite. Why? Because we can still list them, second by second.
 
-Do you see a connection between this and what we talked about during <a href="https://xietianyiwa.github.io/flash_talks/flash/talks/the-universe-on-a-stick/" target="_blank">the Universe on a Stick talk</a>? We’ll come back to this.
+Do you see a connection between this and what we talked about during <a href="https://xietianyiwa.github.io/flash/talks/the-universe-on-a-stick/" target="_blank">the Universe on a Stick talk</a>? We’ll come back to this.
 
 <h3>Different Sizes of Infinity</h3>
 At this point you might ask “What’s the limit of the hotel? Can the hotel just keep taking in people?”. Turns out, the answer is no.
@@ -64,6 +64,6 @@ This has the consequence that R is different from all the seat numbers on the ma
 
 This situation will arise no matter how you arrange the passengers in the Hilbert hotel. This is because although there are infinitely many natural numbers and real numbers, their sizes are different. The real numbers are not countable, and infinities have different sizes.
 
-This is the hidden reason behind <a href="https://xietianyiwa.github.io/flash_talks/flash/talks/the-universe-on-a-stick/" target="_blank">the first talk</a>. There are uncountably many numbers on any stick, so we could comfortably put countable amount of information there.
+This is the hidden reason behind <a href="https://xietianyiwa.github.io/flash/talks/the-universe-on-a-stick/" target="_blank">the first talk</a>. There are uncountably many numbers on any stick, so we could comfortably put countable amount of information there.
 
 <a href="https://github.com/xietianyiwa/flash_talks/blob/gh-pages/PDF/Hilbert_Hotel.pdf" target="_blank">PDF</a>
