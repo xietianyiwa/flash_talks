@@ -66,7 +66,7 @@ What happens if you pitch CooperateBot against CooperateBot? With CoopWithCoopBo
 
 The answer to the last question is they both defect. So we might improve upon CoopWithCoopBot, by introducing a MirrorBot:
 
-![image](/flash_talks/images/MirrorBot.png)
+![image](/xietianyiwa.github.io/images/MirrorBot.png)
 
 What does this robot do? It looks at the opponent, and if the opponent is exactly the same as itself, i.e. a MirrorBot, then it cooperates. Otherwise it defects.
 
@@ -74,7 +74,7 @@ If we pitch MirrorBot against MirrorBot, both cooperate. But this system is frag
 
 We go back to the parents example. Your opponent doesn’t have to be CooperateBot for you to cooperate with them, you only need to know that they will Cooperate with you. So how about the following SmartBot:
 
-![image](/flash_talks/images/SmartBot.png)
+![image](./images/SmartBot.png)
 
 SmartBot works like this: it works out how the opponent will react when pitched against SmartBot. That is: SmartBot takes the opponent code, and inputs itself into the code of the opponent. Then SmartBot observes the results. If the Opponent cooperates with SmartBot, then SmartBot cooperates back. Otherwise, SmartBot defects.
 
