@@ -10,4 +10,4 @@ In summer 2023, I did a summer project with Professor Matthew Colbrook (Cambridg
 In the summer of 2023 I wrote two essays on <a href="/PDF/Borel_Sets_and_Analytic_Sets.pdf" target="_blank">Borel and Analytic Sets</a> and <a href="/PDF/Constructible_Universe.pdf" target="_blank">the Constructible Universe</a>.
 
 <h4>Others</h4>
-<a href="/PDF/Constructible_Universe.pdf" target="_blank">To Plant a Fish</a>, published at the Trinity Review.
+<a href="/PDF/To Plant a Fish Typesetting.pdf" target="_blank">To Plant a Fish</a>, published on the Trinity Review.

@@ -5,7 +5,7 @@
 layout: home
 ---
 
-My name is Tianyiwa Xie (or Yiwa for short), and I am a 1st year PhD student of mathematics at <a href="https://www.uni-muenster.de/en/" target="_blank">Universität Münster</a> under the supervision of <a href="https://ivv5hpp.uni-muenster.de/u/fjahn_01/" target="_blank">Prof. Dr. Franziska Jahnke</a> and <a href="https://www.sylvyanscombe.com/research.html" target="_blank">Sylvy Anscombe</a>. Previously, I was at Trinity College Cambridge from 2020-2024. 
+My name is Tianyiwa Xie (or Yiwa for short), and I am a 1st year PhD student of mathematics at <a href="https://www.uni-muenster.de/en/" target="_blank">Universität Münster</a> under the supervision of <a href="https://ivv5hpp.uni-muenster.de/u/fjahn_01/" target="_blank">Prof. Dr. Franziska Jahnke</a> and <a href="https://www.sylvyanscombe.com/me.html" target="_blank">Dr. Sylvy Anscombe</a>. Previously, I was at Trinity College Cambridge from 2020-2024. 
 
 My research area is the model theory of valued fields. I am currently thinking about <a href="https://arxiv.org/abs/2305.12145" target="_blank">the AKE principle for mixed characteristic, finitely ramified Henselian fields</a>.
 
