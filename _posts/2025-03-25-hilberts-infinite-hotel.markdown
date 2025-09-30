@@ -66,4 +66,4 @@ This situation will arise no matter how you arrange the passengers in the Hilber
 
 This is the hidden reason behind <a href="https://xietianyiwa.github.io/flash/talks/the-universe-on-a-stick/" target="_blank">the first talk</a>. There are uncountably many numbers on any stick, so we could comfortably put countable amount of information there.
 
-<a href="https://github.com/xietianyiwa/flash_talks/blob/gh-pages/flash_talks_PDF/Hilbert_Hotel.pdf" target="_blank">PDF</a>
+<a href="/PDF/Hilbert_Hotel.pdf" target="_blank">PDF</a>

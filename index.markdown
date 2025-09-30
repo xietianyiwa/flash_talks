@@ -9,6 +9,6 @@ My name is Tianyiwa Xie (or Yiwa for short), and I am a 1st year PhD student of 
 
 My research area is the model theory of valued fields. I am currently thinking about <a href="https://arxiv.org/abs/2305.12145" target="_blank">the AKE principle for mixed characteristic, finitely ramified Henselian fields</a>.
 
-I find giving talks to be a very effective way of studying and you can find a lot of my notes here! 
+I find giving talks to be a very effective way of studying and you can find some of my notes here! 
 
 Huge thanks for Giraffe Academy for their <a href="https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB" target="_blank"> excellent Youtube tutorial</a> in building this site.

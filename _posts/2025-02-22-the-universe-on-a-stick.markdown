@@ -52,4 +52,4 @@ Notice how we are using a number in (0, 1) to represent the state of the univers
 
 And my favorite fact about this whole thing: after you finish making infinitely many cuts, there’s still a lot of space left over on the stick. If you want to do this all over again for another universe, you have enough space on that stick to do so.
 
-<a href="https://github.com/xietianyiwa/flash_talks/blob/gh-pages/flash_talks_PDF/The_Universe_On_A_Stick.pdf" target="_blank">PDF</a>
+<a href="/PDF/The_Universe_On_A_Stick.pdf" target="_blank">PDF</a>

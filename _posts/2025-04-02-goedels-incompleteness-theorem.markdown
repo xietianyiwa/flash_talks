@@ -78,4 +78,4 @@ The tricky thing of course, is how would you write down “this sentence is unpr
 <h3>Maths Could be a Religion </h3>
 I will leave you with this last thought, which a friend brought to my attention: Suppose you define religion as “a system of beliefs, which includes held beliefs which cannot be proven”, then Gödel just told us that maths is a religion! In fact, it is the only religion that can prove that it is one.
 
-<a href="https://github.com/xietianyiwa/xietianyiwa.github.io/blob/gh-pages/flash_talks_PDF/Goedel_incompleteness.pdf"target="_blank">PDF</a>
+<a href="/PDF/Goedel_incompleteness.pdf"target="_blank">PDF</a>

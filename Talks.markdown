@@ -5,7 +5,7 @@ title: Talks
 ---
 <h4>PhD Talks </h4>
 
-<a href="/PhDtalks_PDF/Mcintyres_Theorem.pdf">McIntyre's Theorem</a> SoSe 2025, Seminar "Introduction to Stability Theory".
+<a href="/PDF/Mcintyres_Theorem.pdf">McIntyre's Theorem</a> SoSe 2025, Seminar "Introduction to Stability Theory".
 
 <h4>Flash Talks </h4>
 
