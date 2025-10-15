@@ -11,8 +11,7 @@ The talks will take place on Mondays at 11am, in the PhD room on the first floor
 Here is the list of speakers and talks:
 
 <ul>
-  <li>20/10: Yiwa, <i>Hilbert 10th Problem</i> </li>
-  <li>27/10 </li>
+  <li>27/10: Yiwa, <i>Hilbert 10th Problem</i></li>
   <li>03/11 </li>
   <li>10/11 </li>
   <li>17/11 </li>
