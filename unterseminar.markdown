@@ -4,7 +4,7 @@ permalink: /unterseminar/
 title: Junior Model Theory Seminar
 ---
 
-I am taking over from Marga this semester for the Unterseminar! It is an informal seminar series where only people who does not hold a PhD yet are allowed. You are welcome to talk about your research, your thesis, or just fun facts you have learnt recently. It's supposed to be informal and fun, so it's a perfect place to practice giving talks.
+I am taking over from Marga this semester for the Unterseminar! It is a seminar series where only people who do not hold a PhD are allowed. You are welcome to talk about your research, your thesis, or just fun facts you have learnt recently. It's supposed to be informal and fun, so it's a perfect place to practice giving talks.
 
 The talks will take place on Mondays at 11am, in the PhD room on the first floor of Orléans-Ring 10. Optionally you can come to tea at 10:30, snacks will be provided. The talks should be below 1 hour long.
 
