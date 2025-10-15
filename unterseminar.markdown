@@ -6,7 +6,9 @@ title: Junior Model Theory Seminar
 
 I am taking over from Marga this semester for the Unterseminar! It is an informal seminar series where only people who does not hold a PhD yet are allowed. You are welcome to talk about your research, your thesis, or just fun facts you have learnt recently. It's supposed to be informal and fun, so it's a perfect place to practice giving talks.
 
-The talks will take place on Mondays at 11am, in the PhD room on the first floor of Orléans-Ring 10. Here are the list of dates and talks:
+The talks will take place on Mondays at 11am, in the PhD room on the first floor of Orléans-Ring 10. 
+
+Here is the list of speakers and talks:
 
 <ul>
   <li>20/10: Yiwa, Hilbert 10th Problem</li>
