@@ -14,8 +14,6 @@ Here is the list of speakers and talks:
   <li>20/10: Yiwa, <i>Hilbert 10th Problem</i> </li>
   <li>27/10 </li>
   <li>03/11 </li>
-  <li>27/10 </li>
-  <li>03/11 </li>
   <li>10/11 </li>
   <li>17/11 </li>
   <li>24/11 </li>
