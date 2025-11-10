@@ -13,7 +13,7 @@ Here is the list of speakers and talks:
 <ul>
   <li>27/10: Yiwa, <a href="/PDF/Hilbert_10th_1.pdf"><i>Hilbert 10th Problem I</i></a></li>
   <li>03/11: Yiwa, <a href="/PDF/Hilbert_10th_2.pdf"><i>Hilbert 10th Problem II</i></a></li>
-  <li>10/11: Jonas </li>
+  <li>10/11: Jonas, <i>Convincing a Computer: mathematics in a proof assistant</i> </li>
   <li>17/11: Zahra </li>
   <li>24/11: Zixuan </li>
   <li>01/12 </li>
