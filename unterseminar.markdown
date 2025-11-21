@@ -16,8 +16,8 @@ Here is the list of speakers and talks:
   <li>10/11: Jonas, <i>Convincing a Computer: mathematics in a proof assistant</i> </li>
   <li>17/11: Zahra, <i>Some Model Theory and the Free Factor Complex</i> </li>
   <li>24/11: Zixuan </li>
-  <li>01/12 </li>
-  <li>08/12 </li>
+  <li>01/12: Jake </li>
+  <li>08/12: Shervin </li>
   <li>15/12 </li>
   <li>Christmas!</li>
   <li>Christmas?</li>
