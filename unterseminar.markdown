@@ -15,14 +15,12 @@ Here is the list of speakers and talks:
   <li>03/11: Yiwa, <a href="/PDF/Hilbert_10th_2.pdf"><i>Hilbert 10th Problem II</i></a></li>
   <li>10/11: Jonas, <i>Convincing a Computer: mathematics in a proof assistant</i> </li>
   <li>17/11: Zahra, <i>Some Model Theory and the Free Factor Complex</i> </li>
-  <li>24/11: Zixuan </li>
-  <li>01/12: Jake </li>
-  <li>08/12: Shervin </li>
-  <li>15/12 </li>
+  <li>24/11: Zixuan <i>Model Theory of Pseudo-finite Fields</i></li>
+  <li>01/12: Jake <i>Detection Problems in Recursively Presented Groups</i> </li>
+  <li>08/12: Shervin <i>A Simple Introduction to Constructibility</i></li>
   <li>Christmas!</li>
-  <li>Christmas?</li>
-  <li>05/01</li>
-  <li>12/01: Marga</li>
-  <li>19/01</li>
+  <li>Happy New Year!</li>
+  <li>12/01: Marga <i>Some THings that Went Wrong in my PhD</i></li>
+  <li>19/01: Shujie</li>
   <li>26/01</li>
 </ul>
