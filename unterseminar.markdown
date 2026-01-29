@@ -21,6 +21,5 @@ Here is the list of speakers and talks:
   <li>Christmas!</li>
   <li>Happy New Year!</li>
   <li>12/01: Marga, <i>Some Things that Went Wrong in my PhD</i></li>
-  <li>19/01: Shujie</li>
-  <li>26/01</li>
+  <li>26/01: Alex, <i>A gentle introduction to Bicategories and where they appear in Model Theory</i></li>
 </ul>
