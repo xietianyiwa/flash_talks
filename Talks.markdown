@@ -1,9 +1,11 @@
 ---
 layout: page
 permalink: /talks/
-title: Talks
+title: Talks and Teaching
 ---
 <h4>PhD Talks </h4>
+
+<a href="https://www.maths.ox.ac.uk/node/81136">Towards H10 in mixed characteristic Henselian valued fields</a> Advanced Class Logic, Oxford.
 
 <a href="/PDF/Mcintyres_Theorem.pdf">McIntyre's Theorem</a> SoSe 2025, Seminar "Introduction to Stability Theory".
 
