@@ -11,8 +11,8 @@ The talks will take place on Mondays at 11am, in the PhD room on the first floor
 Here is the list of speakers and talks:
 
 <ul>
-  <li>27/10: Yiwa, <i>Hilbert 10th Problem I</i></a></li>
-  <li>03/11: Yiwa, <i>Hilbert 10th Problem II</i></a></li>
+  <li>27/10: Yiwa, <i>Hilbert 10th Problem I</i></li>
+  <li>03/11: Yiwa, <i>Hilbert 10th Problem II</i></li>
   <li>10/11: Jonas, <i>Convincing a Computer: mathematics in a proof assistant</i> </li>
   <li>17/11: Zahra, <i>Some Model Theory and the Free Factor Complex</i> </li>
   <li>24/11: Zixuan, <i>Model Theory of Pseudo-finite Fields</i></li>
