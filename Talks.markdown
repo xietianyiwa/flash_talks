@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /talks/
-title: Talks and Teaching
+title: Talks
 ---
 <h4>PhD Talks </h4>
 
